@@ -1,2 +1,2 @@
 # Preserva-IFPE-Prototipo-
-Um projeto para preservar patrimonio publico
+Um projeto para preservar patrimonio publico.
